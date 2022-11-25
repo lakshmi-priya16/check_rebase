@@ -15,3 +15,6 @@ else:
    print("Fibonacci sequence:")
    for i in range(nterms):
        print(recur_fibo(i))
+
+
+#added comments in the last line 
